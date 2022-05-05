@@ -1,4 +1,4 @@
-# ML-CreditCard
+# ML-CreditCardFraud
 
 [Kaggle link to the dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
